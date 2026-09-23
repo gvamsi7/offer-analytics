@@ -1,6 +1,5 @@
 {
   "name": "offer-analytics",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
-  "forwardPorts": [3003],
   "postCreateCommand": "npm install"
 }
